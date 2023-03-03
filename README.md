@@ -9,7 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 <img src = "https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-<img src= "https://img.shields.io/badge/Manjaro-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src= "https://img.shields.io/badge/Manjaro-1793D1?style=for-the-badge&logo=manjaro&logoColor=white">
 </p>
 
 ### Programming languages 🧰
