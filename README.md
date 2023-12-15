@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @AlphabetsAlphabets or Jia Hong and I started learning programming in 2020.
 - 👀 I like making stuff, anything. I don't mind if its new either! That's how I learn 😄
-- I am a Linux enthusiast, I *don't* use Arch BTW 😄.
+- I am a wannabe Linux enthusiast, I *don't* use Arch BTW 😄.
 - I'm a huge fan of Neovim, and have contributed to a few small plugins. I'm particularly proud of my fork of [centerpad.nvim](https://github.com/AlphabetsAlphabets/centerpad.nvim/tree/main)
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AlphabetsAlphabets&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
